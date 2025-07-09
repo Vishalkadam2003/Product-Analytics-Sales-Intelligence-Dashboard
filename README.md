@@ -104,3 +104,6 @@ This dashboard simulates what a real data analyst would deliver to product or sa
 - Streamlit version for web sharing
 - Advanced DAX-based KPIs (Profit Margin, ROI)
 
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project with proper attribution.
