@@ -1,3 +1,5 @@
+> ⚠️ **Notice**: This project is protected under Creative Commons. Do not copy or re-upload without permission. Ownership belongs to **Vishal Kadam**.
+
 # Product-Analytics-Sales-Intelligence-Dashboard
 # Product Analytics & Sales Intelligence Dashboard (Power BI + Python)
 
@@ -106,4 +108,9 @@ This dashboard simulates what a real data analyst would deliver to product or sa
 
 ## 🧾 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project with proper attribution.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+You may **view and reference** this project, but you may **not use, modify, or redistribute** it without giving full credit to the original author.
+
+🔗 [View License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
